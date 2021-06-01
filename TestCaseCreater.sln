@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCaseCreater", "TestCaseCreater\TestCaseCreater.csproj", "{C3B81974-67CB-48C4-B34E-4A3AAFD23FC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCaseCreater", "TestCaseCreater\TestCaseCreater.csproj", "{C3B81974-67CB-48C4-B34E-4A3AAFD23FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn_TestCaseCreator", "ExcelAddIn_TestCaseCreator\ExcelAddIn_TestCaseCreator.csproj", "{AEC27C9E-9803-4C3E-BF20-BC7918D30F2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C3B81974-67CB-48C4-B34E-4A3AAFD23FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3B81974-67CB-48C4-B34E-4A3AAFD23FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3B81974-67CB-48C4-B34E-4A3AAFD23FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC27C9E-9803-4C3E-BF20-BC7918D30F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC27C9E-9803-4C3E-BF20-BC7918D30F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC27C9E-9803-4C3E-BF20-BC7918D30F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC27C9E-9803-4C3E-BF20-BC7918D30F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
